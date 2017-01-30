@@ -1,1 +1,1 @@
-This is a test of git usage
+This is a test of git usage!
